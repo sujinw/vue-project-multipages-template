@@ -1,0 +1,2 @@
+export const MUTATION_TYPES = 'MUTATION_TYPES'
+
