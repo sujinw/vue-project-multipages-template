@@ -2,6 +2,7 @@
   <div class="page-wrapper">
     <vheader></vheader>
     <router-link to="/hello">点我点我点我啊</router-link>
+    <a href="/page1.html">跳转到page1</a>
     <transition name="slide">
       <keep-alive>
         <router-view></router-view>
